@@ -1,4 +1,4 @@
-## Hey, I'm Pranav
+## Hey, I'm Pranav                                              [LinkedIn](https://linkedin.com/in/pranavguhathakurta)  
 
 I'm a final-year undergraduate Wharton (Finance with a minor in Computer Science). My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
 
@@ -44,7 +44,7 @@ AI infra • Private compute • Search architecture • Applied ML
 
 🧭 Always up for building something weird, fast, and useful.
 
-[LinkedIn](https://linkedin.com/in/pranavguhathakurta)  
+
 
 
 
