@@ -1,50 +1,50 @@
-## Hi there 👋
+## Hey, I'm Pranav
 
-## 👋 Hey, I'm Pranav
+I'm a final-year undergraduate Wharton (Finance with a minor in Computer Science). My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
 
-I'm a final-year undergraduate studying Finance at Wharton with a minor in Computer Science. My interests live at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
-
----
-
-### 🧠 What I’m Building Toward
-
-Modern AI tools are powerful — but bloated. We're using jet engines to light birthday candles. I'm driven to explore and build systems that are:
-
-- **Right-sized** for their use cases  
-- **Private by design**  
-- **Scalable** without depending on hyperscale infrastructure  
-- **Purpose-built**, not general-purpose guesses
-
-My current focus is on:
-- Compact architectures for **local inference**  
-- **Search structure optimization** in coarse search stages of proximity graph methods (e.g., HNSW)  
-- The emerging need for **modular, adaptive, private LLMs** that don’t pretend to solve everything
-
-> _Don’t bring an axe when a penknife will do._
+🧩 Obsessed with building **purpose-built AI systems** that are fast, lean, and private by default  
+⚙️ Interested in right - scaling down architectures and efficient search. (Cost pressures for cost-efficient LLMs and AGIs are already here)
 
 ---
 
-### 🔧 Technical Areas I’m Into
+### I’m Building Toward
 
-- Lightweight & domain-specific LLMs  
-- Efficient vector search (ANN, HNSW, Graph-based IR)  
-- Retrieval-Augmented Generation (RAG) systems  
-- Scalable backend systems & API design  
-- Data pipelines with a security and compliance edge  
+Modern LLMs are overkill for most tasks. I’m focused on designing systems that:
 
----
-
-### 🌱 Currently Learning
-
-- Practical limits of fine-tuning vs. prompt engineering  
-- Private compute architectures for decentralized inference  
-- How to make the right thing _small_, _fast_, and _useful_
+🛠️ Use **right-sized models** for specific, high-leverage problems  
+🔐 Embrace **privacy-first compute** that doesn’t require cloud-scale firepower  
+📦 Leverage **coarse-grained search structures** (like HNSW) for smart retrieval  
+🚫 Avoid complexity when simplicity wins — _don't bring an axe when a penknife will do_
 
 ---
 
-### 🔗 Let’s Connect
+### 🔍 Technical Interests
 
-Feel free to check out my repos or reach out. I’m always happy to exchange ideas on building lean AI infrastructure, tradeoffs in system design, or emerging compliance frontiers in LLMs.
+💡 Lightweight LLMs & private inference  
+🧭 Hierarchical search (ANN, HNSW, vector graphs)  
+📚 RAG pipelines with smart retrieval logic  
+🌐 Scalable backends for AI infra  
+🧮 Systems that blend data, compute, and intent
+
+---
+
+### 📡 Currently Exploring
+
+🔧 Fine-tuning vs. distillation tradeoffs  
+📈 Composability in AI agents  
+🔐 Zero-trust architectures for edge inference  
+🧠 Real-world applications of token-efficient transformers
+
+---
+
+### 🤝 Let’s Connect
+
+🚀 Exploring roles and collaborations in:  
+AI infra • Private compute • Search architecture • Applied ML
+
+🧭 Always up for building something weird, fast, and useful.
+
+[LinkedIn](https://linkedin.com/in/pranavguhathakurta)  
 
 
 
