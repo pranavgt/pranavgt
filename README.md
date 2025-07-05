@@ -2,7 +2,7 @@
 
 I'm a final-year undergraduate Wharton (Finance with a minor in Computer Science). My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
 
-+ Obsessed with building **purpose-built AI systems** that are fast, lean, and private by default  
++ Focused on building **purpose-built AI systems** that are fast, lean, and private by default  
 + Interested in *right* scaling architectures and efficient search. (Cost pressures are already here!)
 
 ---
