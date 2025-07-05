@@ -1,5 +1,5 @@
 ##         
-I'm a [final-year undergraduate at Wharton] (https://linkedin.com/in/pranavguhathakurta)  (Finance with a minor in Computer Science). My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
+I'm a [final-year undergraduate at Wharton](https://linkedin.com/in/pranavguhathakurta)  - Finance with a minor in Computer Science . My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
 
 + Focused on building **purpose-built AI systems** that are fast, lean, and private by default  
 + Interested in ***right*** scaling architectures and efficient search. (Cost pressures are already here!)
