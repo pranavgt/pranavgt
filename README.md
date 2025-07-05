@@ -11,10 +11,10 @@ I'm a final-year undergraduate Wharton (Finance with a minor in Computer Science
 
 Modern LLMs are overkill for most tasks. I’m focused on designing systems that:
 
-**Purpose-built AI systems** that are **fast, lean,** and **private by default** — solving real-world problems without unnecessary complexity. Use **right-sized models** for specific, high-leverage problems  
-🔐 Embrace **privacy-first compute** that doesn’t require cloud-scale firepower  
-📦 Leverage **coarse-grained search structures** (like HNSW) for smart retrieval  
-🚫 Avoid complexity when simplicity wins — _don't bring an axe when a penknife will do_
+-- **Purpose-built AI systems** that are **fast, lean,** and **private by default** — solving real-world problems without unnecessary complexity. Use **right-sized models** for specific, high-leverage problems  
+-- **Privacy-first compute** that doesn’t require cloud-scale firepower  
+-- Leverage **coarse-grained search structures** (like HNSW) for smart retrieval  
+-- Avoid complexity when simplicity wins — _don't bring an axe when a penknife will do_
 
 ---
 
