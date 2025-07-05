@@ -1,6 +1,5 @@
-## Hey, I'm Pranav                                              [LinkedIn](https://linkedin.com/in/pranavguhathakurta)  
-
-I'm a final-year undergraduate Wharton (Finance with a minor in Computer Science). My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
+##         
+I'm a [final-year undergraduate at Wharton] (https://linkedin.com/in/pranavguhathakurta)  (Finance with a minor in Computer Science). My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
 
 + Focused on building **purpose-built AI systems** that are fast, lean, and private by default  
 + Interested in ***right*** scaling architectures and efficient search. (Cost pressures are already here!)
@@ -18,32 +17,29 @@ Modern LLMs are overkill for most tasks. I’m focused on designing systems that
 
 ---
 
-### 🔍 Technical Interests
+### Technical Interests
 
-💡 Lightweight LLMs & private inference  
-🧭 Hierarchical search (ANN, HNSW, vector graphs)  
-📚 RAG pipelines with smart retrieval logic  
-🌐 Scalable backends for AI infra  
-🧮 Systems that blend data, compute, and intent
-
----
-
-### 📡 Currently Exploring
-
-🔧 Fine-tuning vs. distillation tradeoffs  
-📈 Composability in AI agents  
-🔐 Zero-trust architectures for edge inference  
-🧠 Real-world applications of token-efficient transformers
+-- Lightweight LLMs & private inference  
+-- Hierarchical search (ANN, HNSW, vector graphs)  
+-- RAG pipelines with smart retrieval logic  
+-- Scalable backends for AI infra  
+-- Systems that blend data, compute, and intent
 
 ---
 
-### 🤝 Let’s Connect
+### Currently Exploring
 
-🚀 Exploring roles and collaborations in:  
+-- Fine-tuning vs. distillation tradeoffs  
+-- Composability in AI agents  
+-- Zero-trust architectures for edge inference  
+-- Real-world applications of token-efficient transformers
+
+---
+###  Let’s Connect
+
+Im always up for building something weird, fast, and useful. Hit me up if you want to talk about collaborting on: 
+
 AI infra • Private compute • Search architecture • Applied ML
-
-🧭 Always up for building something weird, fast, and useful.
-
 
 
 
