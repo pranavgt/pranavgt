@@ -1,5 +1,5 @@
 ##         
-Hi, I'm **Pranav** - a [final-year undergraduate at Wharton](https://linkedin.com/in/pranavguhathakurta)  (Major: Finance, Minor: CS). 
+Hi, I'm **Pranav** - a [final-year undergraduate at Wharton @ UPenn](https://linkedin.com/in/pranavguhathakurta)  (Major: Finance, Minor: CS). 
 My interests lie at the intersection of **efficient computation**, **scalable AI**, and **product design for the real world**.
 
 + Focused on building **purpose-built AI systems** that are fast, lean, and private by default  
